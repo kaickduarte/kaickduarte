@@ -1,6 +1,7 @@
 - 👋 Olá, me chamo Kaick Duarte Santos! Sou estudante de Engenharia de Software e aqui no github eu posto alguns de meus trabalhos!
-- 📞 +55 (31) 98790-5739
+- 📞 Telefone: +55 (31) 98790-5739
 - 📫 e-mail: kaickds@hotmail.com
+- 📋 Projetos: https://kaickduarte.github.io/Seminario-Bootstrap/
 
 <!---
 kaickduarte/kaickduarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
