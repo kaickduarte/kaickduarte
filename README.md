@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Kaick Duarte Santos! Sou estudante de Engenharia de Software e aqui no github eu posto alguns de meus trabalhos!
+- 👋 Olá, me chamo Kaick! Sou estudante de Engenharia de Software e aqui no github eu posto alguns de meus trabalhos!
 - 📫 E-mail para contato: kaickds@hotmail.com
 - 📋 Projetos: https://kaickduarte.github.io/Seminario-Bootstrap/
 
